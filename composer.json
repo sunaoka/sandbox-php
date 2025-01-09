@@ -1,0 +1,15 @@
+{
+    "name": "sunaoka/sandbox-php",
+    "autoload": {
+        "psr-4": {
+            "Sunaoka\\SandboxPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sunaoka",
+            "email": "sunaoka@pocari.org"
+        }
+    ],
+    "require": {}
+}
